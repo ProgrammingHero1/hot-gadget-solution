@@ -1,0 +1,42 @@
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.card-item {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.smartphone-section {
+    margin-bottom: 50px;
+}
+
+.laptop-section {
+    margin-bottom: 90px;
+}
+
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
